@@ -14,7 +14,7 @@ export default defineConfig({
         text: '輕策',
         items: [
           { text: '得分沙拉', link: '/light/point-salad' },
-          { text: '香料之路', link: '/light/snorta' },
+          { text: '香料之路', link: '/light/century-spice-road' },
         ],
       },
     ],
