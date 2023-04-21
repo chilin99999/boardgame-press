@@ -1,6 +1,6 @@
 # 得分沙拉
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+優秀的輕策略遊戲
 
 ## BGG
 
