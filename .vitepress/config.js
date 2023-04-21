@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: 'boardgame-press',
   title: '簡評桌遊',
   description: '簡單扼要聊聊桌遊',
   themeConfig: {
